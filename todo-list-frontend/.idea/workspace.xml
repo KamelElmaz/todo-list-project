@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83860e55-b956-42c1-b7ea-8c585973c2e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../todo-list-backend/build/classes/java/main/com/todo/TodoApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list-backend/build/classes/java/main/com/todo/controller/TodoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list-backend/build/classes/java/main/com/todo/entity/Todo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list-backend/build/classes/java/main/com/todo/exception/TodoNotFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list-backend/build/classes/java/main/com/todo/repository/TodoRepositoryInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list-backend/build/resources/main/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list-backend/build/resources/main/import.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list-backend/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list-backend/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list-backend/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list-backend/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list-backend/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list-backend/src/main/java/com/todo/controller/TodoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list-backend/src/main/java/com/todo/entity/Todo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list-backend/src/main/java/com/todo/exception/TodoNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list-backend/src/main/java/com/todo/repository/TodoRepositoryInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-list-backend/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../todo-list-backend/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo-list-backend/src/main/resources/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../todo-list-backend/src/main/resources/import.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2q6tnN05CrMsu1JrsCLlRVfTkA3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Users/kamel/Downloads/todo-list/todo-list-frontend/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.112" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83860e55-b956-42c1-b7ea-8c585973c2e0" name="Changes" comment="" />
+      <created>1733995018858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733995018858</updated>
+      <workItem from="1733995020214" duration="7297000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,73 @@
+{
+	"info": {
+		"_postman_id": "87ddffea-b4a7-4916-a8d8-e862e78b73f8",
+		"name": "CERN TODO",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "12837292"
+	},
+	"item": [
+		{
+			"name": "Get TODOs by ID",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:8099/api/todos/2"
+			},
+			"response": []
+		},
+		{
+			"name": "Create TODOs",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"task\": \"Test\",\n    \"priority\": 2\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:8099/api/todos"
+			},
+			"response": []
+		},
+		{
+			"name": "Update TODO",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"task\": \"test\",\n    \"priority\": 1\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:8099/api/todos/5"
+			},
+			"response": []
+		},
+		{
+			"name": "Update TODO",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": "http://localhost:8099/api/todos/1"
+			},
+			"response": []
+		},
+		{
+			"name": "Get all TODOs",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:8099/api/todos"
+			},
+			"response": []
+		}
+	]
+}
